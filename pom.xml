@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <groupId>com.yun</groupId>
+        <artifactId>yun-parent</artifactId>
+        <version>3.6.3</version>
+    </parent>
+    <packaging>pom</packaging>
+    <modules>
+        <module>yun-rule-remote</module>
+        <module>yun-rule-server</module>
+        <module>yun-rule-common</module>
+    </modules>
+    <modelVersion>4.0.0</modelVersion>
+
+    <version>3.6.3</version>
+    <artifactId>yun-modules-rule</artifactId>
+
+
+    <description>
+        yun-modules-rule系统模块
+    </description>
+
+
+</project>
